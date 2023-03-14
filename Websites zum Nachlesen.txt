@@ -1,0 +1,5 @@
+https://keepcalmlovesharepoint.wordpress.com/2020/07/14/manage-maintain-creation-of-groups-in-microsoft-365/
+
+https://learn.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets
+
+https://github.com/pnp/powershell
